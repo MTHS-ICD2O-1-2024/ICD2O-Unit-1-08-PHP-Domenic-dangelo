@@ -13,7 +13,7 @@
     />
     <link
       rel="stylesheet"
-      href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css"
+      href="https://code.getmdl.io/1.3.0/material.deep_purple-amber.min.css"
     />
     <link rel="stylesheet" href="./css/style.css" />
     <link
